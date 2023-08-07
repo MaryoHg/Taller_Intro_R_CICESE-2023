@@ -4,4 +4,7 @@ Repositorio que contiene los archivos, scripts, presentaciones y bibliografía d
 Taller organizado del 9 al 11 de agosto de 2023 en modalidad _on line_ por la plataforma [Webex Cisco](https://www.webex.com/es/downloads.html).
 
 # Información general del taller
-Organizado por el "Laboratorio de Metagenómica" (PI: Dra. M. Asunción Lago Lestón) del departamento de Innovación Biomédica del [Centro de Investigación Científica y de Educación Superior de Ensenada](https://www.cicese.edu.mx/) (CICESE).
+Organizado por el "Laboratorio de Metagenómica" (PI: [Dra. M. Asunción Lago Lestón](https://usuario.cicese.mx/~alago/)) del departamento de Innovación Biomédica del [Centro de Investigación Científica y de Educación Superior de Ensenada](https://www.cicese.edu.mx/) (CICESE).
+
+# Página oficial del taller
+La página oficial del taller es: [https://dib.cicese.mx/TallerR/](https://dib.cicese.mx/TallerR/)
