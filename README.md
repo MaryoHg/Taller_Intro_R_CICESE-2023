@@ -1,2 +1,7 @@
-# Taller_Intro_R_CICESE-2023
-Repositorio que contiene los archivos, scripts, presentaciones y bibliografía del "Taller de Introducción al Lenguaje R". Taller organizado por el "Laboratorio de Metagenoma" bajo la dirección de la Dra. Lago Lestón M, del departamento de Innovación Biomédica CICESE.
+# Taller de Introducción al Lenguaje R
+
+Repositorio que contiene los archivos, scripts, presentaciones y bibliografía del "Taller de Introducción al Lenguaje R". 
+Taller organizado del 9 al 11 de agosto de 2023 en modalidad _on line_ por la plataforma [Webex Cisco](https://www.webex.com/es/downloads.html).
+
+# Información general del taller
+Organizado por el "Laboratorio de Metagenómica" (PI: Dra. M. Asunción Lago Lestón) del departamento de Innovación Biomédica del [Centro de Investigación Científica y de Educación Superior de Ensenada](https://www.cicese.edu.mx/) (CICESE).
