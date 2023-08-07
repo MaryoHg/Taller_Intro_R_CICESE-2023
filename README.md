@@ -11,10 +11,10 @@ La página oficial del taller es: [https://dib.cicese.mx/TallerR/](https://dib.c
 
 # Instructores
 
-Dr. Mario Hernández-Guzmán
-Dr. Valentín Pérez-Hernández
-M.C. M.C. Apatzingan Palomino Hermosillo 
-M.C. Lizt Osorio Pando 
+- Dr. Mario Hernández-Guzmán
+- Dr. Valentín Pérez-Hernández
+- M.C. M.C. Apatzingan Palomino Hermosillo 
+- M.C. Lizt Osorio Pando 
 
 # Cordinación general
 
