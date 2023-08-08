@@ -1,7 +1,14 @@
 # Taller de Introducción al Lenguaje R
 
 Repositorio que contiene los archivos, scripts, presentaciones y bibliografía del "Taller de Introducción al Lenguaje R". 
-Taller organizado del 9 al 11 de agosto de 2023 en modalidad _on line_ por la plataforma [Webex Cisco](https://www.webex.com/es/downloads.html).
+Taller organizado por el [Laboratorio de Metagenómica](https://www.metagenomics-cicese.net/grupo) del 9 al 11 de agosto de 2023 en modalidad _on line_ mediante la plataforma [BlueJeans](https://www.bluejeans.com/es/descargas).
+
+# Instructores
+
+- Dr. [Mario Hernández-Guzmán](https://www.researchgate.net/profile/Mario-Hernandez-Guzman)
+- Dr. [Valentín Pérez-Hernández](https://www.researchgate.net/profile/Valentin-Perez-Hernandez-2)
+- M.C. M.C. [Apatzingan Palomino Hermosillo](https://www.researchgate.net/profile/Yolotzin-Apatzingan-Hermosillo)
+- M.C. Lizt Osorio Pando 
 
 # Información general del taller
 Organizado por el "Laboratorio de Metagenómica" (PI: [Dra. M. Asunción Lago Lestón](https://usuario.cicese.mx/~alago/)) del departamento de Innovación Biomédica del [Centro de Investigación Científica y de Educación Superior de Ensenada](https://www.cicese.edu.mx/) (CICESE).
@@ -9,12 +16,6 @@ Organizado por el "Laboratorio de Metagenómica" (PI: [Dra. M. Asunción Lago Le
 # Página oficial del taller
 La página oficial del taller es: [https://dib.cicese.mx/TallerR/](https://dib.cicese.mx/TallerR/)
 
-# Instructores
-
-- Dr. Mario Hernández-Guzmán
-- Dr. Valentín Pérez-Hernández
-- M.C. M.C. Apatzingan Palomino Hermosillo 
-- M.C. Lizt Osorio Pando 
 
 # Cordinación general
 
