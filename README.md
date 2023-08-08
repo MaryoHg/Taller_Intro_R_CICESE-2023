@@ -7,7 +7,7 @@ Taller organizado por el [Laboratorio de Metagenómica](https://www.metagenomics
 
 - Dr. [Mario Hernández-Guzmán](https://www.researchgate.net/profile/Mario-Hernandez-Guzman)
 - Dr. [Valentín Pérez-Hernández](https://www.researchgate.net/profile/Valentin-Perez-Hernandez-2)
-- M.C. M.C. [Apatzingan Palomino Hermosillo](https://www.researchgate.net/profile/Yolotzin-Apatzingan-Hermosillo)
+- M.C. [Apatzingan Palomino Hermosillo](https://www.researchgate.net/profile/Yolotzin-Apatzingan-Hermosillo)
 - M.C. Lizt Osorio Pando 
 
 # Información general del taller
