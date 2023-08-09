@@ -20,3 +20,32 @@ La página oficial del taller es: [https://dib.cicese.mx/TallerR/](https://dib.c
 # Cordinación general
 
 Coordinadora: (PI) [Dra. M. Asunción Lago Lestón](https://usuario.cicese.mx/~alago/))
+
+
+# Estructura del taller
+
+```bash
+Taller_Intro_R_CICESE-2023
+├── LICENSE
+├── README.md
+├── data
+│   ├── file.csv
+│   ├── file.tsv
+│   ├── file.txt
+│   └── file.xlsx
+├── ejemplos_avanzados_uso_R
+│   ├── anova-and-other-statistics.html
+│   └── proyecto_frijol_grupal.html
+├── guias
+│   ├── 01_Instrucciones-instalar-R.docx
+│   ├── 02_Instrucciones-instalar-RStudio.docx
+│   └── ggplot2-help-sheet.pdf
+├── presentaciones
+│   ├── Lecture_00_Introducción_al_taller.pptx
+│   └── Lecture_01_Intro_Install_Configure_R.pptx
+└── scripts
+    ├── 01_Paquetes_Versiones_Citar.R
+    └── 02_Installing_packages_activity.R
+
+5 directories, 15 files
+```
