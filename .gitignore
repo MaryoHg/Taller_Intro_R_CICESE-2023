@@ -47,3 +47,5 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+.DS_Store
+presentaciones/~$Lecture_01_Intro_Install_Configure_R.pptx
