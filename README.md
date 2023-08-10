@@ -32,7 +32,9 @@ Taller_Intro_R_CICESE-2023
 │   ├── file.csv
 │   ├── file.tsv
 │   ├── file.txt
-│   └── file.xlsx
+│   ├── file.xlsx
+│   ├── iris.tsv
+│   └── iris.xlsx
 ├── ejemplos_avanzados_uso_R
 │   ├── anova-and-other-statistics.html
 │   └── proyecto_frijol_grupal.html
@@ -42,10 +44,15 @@ Taller_Intro_R_CICESE-2023
 │   └── ggplot2-help-sheet.pdf
 ├── presentaciones
 │   ├── Lecture_00_Introducción_al_taller.pptx
-│   └── Lecture_01_Intro_Install_Configure_R.pptx
+│   ├── Lecture_01_Intro_Install_Configure_R.pptx
+│   └── Lecture_02-Bases_de_Datos_en_R.pptx
 └── scripts
     ├── 01_Paquetes_Versiones_Citar.R
-    └── 02_Installing_packages_activity.R
+    ├── 02_Installing_packages_activity.R
+    ├── 03_Importing_databases_into_Renv.R
+    ├── 04_interconverting_databases_in_Renv.R
+    └── 05_Estadisticos_un_factores.R
 
-5 directories, 15 files
+5 directories, 21 files # actualización 10 de agosto de 2023
+# 5 directories, 15 files # actualización 09 de agosto de 2023
 ```
