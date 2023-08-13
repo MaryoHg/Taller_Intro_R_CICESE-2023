@@ -7,7 +7,7 @@
 ## 1. Instalar paqueterías desde el repositorio CRAN: 
 
 	?install.packages()
-	install.packages(c('RColorBrewer', 'Rmisc', 'tidyverse', 'devtools', 'readxl', 'xlsx', 'vegan', "FactoMineR", "agricolae"), dependencies = TRUE)
+	install.packages(c('RColorBrewer', 'Rmisc', 'tidyverse', 'devtools', 'readxl', 'xlsx', 'vegan', "FactoMineR", "agricolae", "patchwork"), dependencies = TRUE)
         # install.packages("importinegi", dependencies = T)        
 	
 	
