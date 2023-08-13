@@ -7,12 +7,14 @@
 ## 1. Instalar paqueterías desde el repositorio CRAN: 
 
 	?install.packages()
-	install.packages(c('RColorBrewer', 'Rmisc', 'tidyverse', 'devtools', 'readxl', 'xlsx'), dependencies = TRUE)
-
+	install.packages(c('RColorBrewer', 'Rmisc', 'tidyverse', 'devtools', 'readxl', 'xlsx', 'vegan', "FactoMineR", "agricolae"), dependencies = TRUE)
+        # install.packages("importinegi", dependencies = T)        
+	
+	
 ## 2. Instalar paqueterías desde Github
 	## Con devtools:: package
 	if (!requireNamespace("devtools", quietly = TRUE)){install.packages("devtools")}
-	devtools::install_github("jbisanz/qiime2R")
+	devtools::install_github("jbisanz/qiime2R", dependencies = TRUE)
 
 ## 3. Con la paquetería remote::
 	## Note: remotes:: package is a lightweight version of devtools function install_github() function
@@ -25,7 +27,8 @@
 ## 4. Instalando desde el repositorio Bioconductor: at <https://www.bioconductor.org/install/>
 	## installing BiocManager package()
 	if (!require("BiocManager", quietly = TRUE))
-		install.packages("BiocManager") # BiocManager::install(version = "3.17")
+		install.packages("BiocManager") 
+	BiocManager::install(version = "3.17")
 	
 	## Package install with BiocManager() - an example
 	BiocManager::install("ComplexHeatmap")	# paquete para hacer heatmaps complejos
@@ -42,4 +45,5 @@
 	library(qiime2R)
 	library(RColorBrewer)
 	library(devtools)
-	library(ComplexHeatmap)
+	suppressPackageStartupMessages(library(ComplexHeatmap))
+	
